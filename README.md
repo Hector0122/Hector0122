@@ -20,6 +20,7 @@ Software Developer en G Global desde 2022, construyendo sistemas de gestión adu
 | 🎬 [Veya](https://github.com/Hector0122/veya_frontend) | Descubrir y trackear pelis/series/anime — búsqueda unificada TMDB + AniList |
 | 📚 [Vellum](https://github.com/Hector0122/vellum_frontend) | Lectura de EPUBs con resúmenes por IA y recomendaciones |
 | 🎮 [GameVault](https://github.com/Hector0122/gamevault_frontend) | Backlog de videojuegos con alertas de precio |
-| 🎨 [arcd_kit](https://github.com/Hector0122/arcd_kit) | Sistema de diseño compartido entre las 6 apps de arriba |
+| 🃏 [PokeV](https://github.com/Hector0122/pokev_frontend) | App personal para el álbum de cartas Pokémon de mi hijo y mío — colección con logros por hitos, sin porcentajes de "lo que falta" |
+| 🎨 [arcd_kit](https://github.com/Hector0122/arcd_kit) | Sistema de diseño compartido entre las 7 apps de arriba |
 
 Cada app frontend tiene su backend correspondiente (`*_backend`/`*_server`) en NestJS o Express + Prisma.
