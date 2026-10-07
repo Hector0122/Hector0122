@@ -22,5 +22,6 @@ Software Developer en G Global desde 2022, construyendo sistemas de gestión adu
 | 🎮 [GameVault](https://github.com/Hector0122/gamevault_frontend) | Backlog de videojuegos con alertas de precio |
 | 🃏 [PokeV](https://github.com/Hector0122/pokev_frontend) | App personal para el álbum de cartas Pokémon de mi hijo y mío — colección con logros por hitos, sin porcentajes de "lo que falta" |
 | 🎨 [arcd_kit](https://github.com/Hector0122/arcd_kit) | Sistema de diseño compartido entre las 7 apps de arriba |
+| 🦝 [Raccoon](https://hector0122.itch.io/raccoon-cyberpunk) | Juego de acción 2D en Unity con habilidades por máscaras — en desarrollo, build jugable y devlog en itch.io |
 
 Cada app frontend tiene su backend correspondiente (`*_backend`/`*_server`) en NestJS o Express + Prisma.
